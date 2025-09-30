@@ -7,7 +7,7 @@
     </tr>
     <tr>
         <td>软件</td>
-        <td>Godot</td>
+        <td>godot</td>
     </tr>
     <tr>
         <td rowspan="2">备选项目</td>
